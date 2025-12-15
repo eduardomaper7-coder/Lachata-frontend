@@ -24,7 +24,7 @@ export default function Navbar() {
     >
       {/* LOGO */}
       <h1 className="text-white text-xl font-semibold tracking-wide">
-        Órdago Getafe
+        La Chata
       </h1>
 
       {/* MENÚ DESKTOP CENTRADO */}
